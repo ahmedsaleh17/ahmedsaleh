@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedsaleh17
+- 👋 Hi, I’m Ahmed Saleh 
 - 👀 I’m interested in Data Science and Data analysis 
 - 🌱 I’m currently learning Computer Engineering
 
