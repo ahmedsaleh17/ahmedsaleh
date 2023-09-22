@@ -17,7 +17,8 @@ Welcome to Ahmed Saleh's profile!
 ## 🛠 Skills
 Data cleaning, exploratory data analysis, Python data structures, web scraping, statistics, machine learning, and data science
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-### Connect with Me on LinkedIn:
+
+### Connect with me on LinkedIn:
 
 <a href="https://www.linkedin.com/in/ahmedsaleh-datascience/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Saleh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
