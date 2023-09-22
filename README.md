@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Ahmed Saleh's profile!
+Welcome to Ahmed Saleh's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,6 +12,9 @@
 
 <h3>🚀 About Me</h3> 
 <h4> Passionate data scientist with a strong background in statistical analysis, data visualization, predictive modeling, and uncovering insights from complex datasets and translating them into actionable strategies for business growth. Skilled in utilizing advanced analytical tools and techniques, such as Python and SQL, to manipulate, analyze, and visualize data effectively. </h4>
+
+## 🛠 Skills
+Data cleaning, exploratory data analysis, Python data structures, web scraping, statistics, machine learning, and data science
 
 <!---
 ahmedsaleh17/ahmedsaleh17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
