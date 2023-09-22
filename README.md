@@ -11,7 +11,7 @@
 </p> 
 
 <h3>🚀 About Me</h3> 
-<h4> Passionate data scientist with a strong background in statistical analysis, data visualization, predictive modeling, and uncovering insights from complex datasets and translating them into actionable strategies for business growth. Skilled in utilizing advanced analytical tools and techniques, such as Python, SQL, and Tableau, to manipulate, analyze, and visualize data effectively. </h4>
+<h4> Passionate data scientist with a strong background in statistical analysis, data visualization, predictive modeling, and uncovering insights from complex datasets and translating them into actionable strategies for business growth. Skilled in utilizing advanced analytical tools and techniques, such as Python and SQL, to manipulate, analyze, and visualize data effectively. </h4>
 
 <!---
 ahmedsaleh17/ahmedsaleh17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
