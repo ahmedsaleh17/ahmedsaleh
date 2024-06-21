@@ -10,8 +10,12 @@ Welcome to Ahmed Saleh's profile!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data-Scientist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
+
 <h3>🚀 About Me</h3> 
 <h4> Passionate data scientist with expertise in analyzing data to uncover valuable insights, I help businesses make sense of their data and turn it into valuable insights. By using statistical analysis, and machine learning to identify patterns, predict trends, and make data-driven decisions. </h4>
+
+
 
 ## 🛠 Skills
 Data cleaning, exploratory data analysis, Python data structures, web scraping, statistics, machine learning, and data science.
