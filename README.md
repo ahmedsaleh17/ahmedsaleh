@@ -13,7 +13,8 @@ Welcome to Ahmed Saleh's profile!
 
 
 <h3>🚀 About Me</h3> 
-<h5> Passionate data scientist with expertise in analyzing data to uncover valuable insights, I help businesses make sense of their data and turn it into valuable insights. By using statistical analysis, and machine learning to identify patterns, predict trends, and make data-driven decisions. </h5>
+
+#### Passionate data scientist with expertise in analyzing data to uncover valuable insights, I help businesses make sense of their data and turn it into valuable insights. By using statistical analysis, and machine learning to identify patterns, predict trends, and make data-driven decisions. 
 
 
 
