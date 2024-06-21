@@ -12,12 +12,10 @@ Welcome to Ahmed Saleh's profile!
 
 <h3>🚀 About Me</h3> 
 <h4> Passionate data scientist with expertise in analyzing data to uncover valuable insights, I help businesses make sense of their data and turn it into valuable insights. By using statistical analysis, and machine learning to identify patterns, predict trends, and make data-driven decisions. </h4>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ## 🛠 Skills
 Data cleaning, exploratory data analysis, Python data structures, web scraping, statistics, machine learning, and data science.
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Connect with me on LinkedIn:
 
